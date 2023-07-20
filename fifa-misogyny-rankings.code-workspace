@@ -7,9 +7,12 @@
     ],
     "settings": {
         "editor.formatOnSave": true,
-        "python.formatting.provider": "black",
+        "python.formatting.provider": "none",
         "files.insertFinalNewline": true,
         "files.trimFinalNewlines": true,
+        "[python]": {
+            "editor.defaultFormatter": "ms-python.black-formatter"
+        },
     },
     "extensions": {
         "recommendations": [

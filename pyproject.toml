@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "package"
+name = "FIFA Misogyny Rankings"
 version = "0.1.0"
-description = "my package solutions"
+description = "identify the countries with the biggest disparity between Womens and Mens rankings"
 authors = ["Louie Brann <louis.brann+github@gmail.com>"]
 readme = "README.md"
-packages = [{include = "package"}]
+packages = [{include = "rankings"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

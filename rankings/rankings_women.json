@@ -1,0 +1,50 @@
+{
+  "rankings": [
+    {
+      "rankingItem": {
+        "rank": 1,
+        "flag": {
+          "src": "https://api.fifa.com/api/v3/picture/flags-sq-2/USA",
+          "width": 70,
+          "height": 46,
+          "title": "USA",
+          "alt": "USA"
+        },
+        "name": "USA",
+        "totalPoints": 2090.03,
+        "active": false,
+        "previousRank": 1,
+        "countryURL": "/fifa-world-ranking/USA",
+        "countryCode": "USA"
+      },
+      "previousPoints": 2091.38,
+      "tag": {
+        "id": "CONCACAF",
+        "text": "CONCACAF"
+      }
+    },
+    {
+      "rankingItem": {
+        "rank": 2,
+        "flag": {
+          "src": "https://api.fifa.com/api/v3/picture/flags-sq-2/GER",
+          "width": 70,
+          "height": 46,
+          "title": "Germany",
+          "alt": "Germany"
+        },
+        "name": "Germany",
+        "totalPoints": 2061.56,
+        "active": false,
+        "previousRank": 2,
+        "countryURL": "/fifa-world-ranking/GER",
+        "countryCode": "GER"
+      },
+      "previousPoints": 2068.12,
+      "tag": {
+        "id": "UEFA",
+        "text": "UEFA"
+      }
+    }
+  ]
+}

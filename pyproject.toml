@@ -8,6 +8,8 @@ packages = [{include = "rankings"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
 
 
 [tool.poetry.group.dev.dependencies]

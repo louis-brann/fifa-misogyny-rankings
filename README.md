@@ -22,6 +22,10 @@ This project relies on `pyenv` and `poetry`.
     - packages
 - Run `poetry install` to get set up
 
+## Usage
+- `poetry shell` to activate the virtual environment
+- Run `./rankings/misogyny.py`
+
 ## Tools
 
 ### Code
